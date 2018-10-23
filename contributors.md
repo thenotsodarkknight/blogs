@@ -7,3 +7,11 @@
 > Aerospace Engineering and minors in Computer Science.
 > I’m quite new to coding, but I have loved it right from the day I was introduced to it.
 > I like to do things differently and search for a new innovative solution for every problem I encounter.
+
+### My website 
+
+- [price-sharma.github.io](https://prince-sharma.github.io/)
+
+### A bit about me
+
+![alt text](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/img/bitmoji.png)
